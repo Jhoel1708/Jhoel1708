@@ -34,12 +34,12 @@ Me caracterizo por el aprendizaje continuo, el trabajo en equipo y el enfoque en
 <p align="center">
   <a href="https://github.com/Jhoel1708">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Jhoel1708&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jhoel1708&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
   <a href="https://github.com/Jhoel1708">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoel1708&layout=compact&langs_count=8&theme=algolia"/>
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jhoel1708&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
@@ -47,4 +47,5 @@ Me caracterizo por el aprendizaje continuo, el trabajo en equipo y el enfoque en
   <img height="180em"
     src="https://streak-stats.demolab.com?user=Jhoel1708&theme=dark&hide_border=true"/>
 </p>
+
 
