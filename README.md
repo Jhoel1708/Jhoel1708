@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Jhoel Camacho</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Desarrollador de Software Junior</h3>
+<h1 align="center">Hi 👋, I'm Jhoel Camacho</h1>
+<h3 align="center">Systems Engineering Student | Junior Software Developer</h3>
 
 <p align="center">
 📍 Cochabamba, Bolivia <br>
@@ -12,9 +12,9 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-Soy estudiante de Ingeniería de Sistemas con experiencia en el desarrollo de aplicaciones web y móviles.
-He participado en proyectos colaborativos para instituciones públicas y privadas, utilizando tecnologías como Angular, NestJS y Python.
-Me caracterizo por el aprendizaje continuo, el trabajo en equipo y el enfoque en la calidad del software.
+I am a Systems Engineering student with experience in web and mobile application development.
+I have participated in collaborative projects for public and private institutions, using technologies such as Angular, NestJS, and Python.
+I am characterized by continuous learning, teamwork, and a strong focus on software quality.
 </p>
 
 <hr>
